@@ -1,3 +1,3 @@
 # Impressum
 
-simpple Impressum for all mey sites
+simpple Impressum for all my sites
